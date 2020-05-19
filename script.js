@@ -1,34 +1,26 @@
 const toDos = [
     {
-        text: 'Complete RealityCheck part 2',
+        text: 'Trip to INDIA',
         completed: false
     },
     {
-        text: 'Saucelabs alternative',
+        text: 'Trip to SWEDEN',
         completed: true
     },
     {
-        text: 'RealityCheck mobile',
+        text: 'Trip to USA',
         completed: false
     },
     {
-        text: 'Mail to teams about Saucelabs',
+        text: 'Trip to SWIZ',
         completed: true
     },
     {
-        text: 'Check board',
+        text: 'Trip to PARIS',
         completed: true
     },
     {
-        text: 'RealityCheck mobile -2',
-        completed: false
-    },
-    {
-        text: 'Mail to teams about Saucelabs -2',
-        completed: false
-    },
-    {
-        text: 'Check board -2',
+        text: 'Trip to GREECE',
         completed: false
     }
 ]
