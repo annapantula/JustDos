@@ -1,0 +1,92 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url('./blackbackground.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: #dc4646b2;
+  font-size: 5rem;
+  text-decoration: 3px red dashed;
+  text-align: center;
+}
+
+h4 {
+  color: #dc5746;
+  font-size: 3rem;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  color: #dc5746;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+hr {
+  border-color: #dc4646b2;
+  border-width: 10px;
+  max-width: 260px;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 500px;
+  text-transform: uppercase;
+}
+.btn-primary {
+  background-color: #dc5746;
+  border-color: #dc5746;
+}
+
+.btn-primary:hover{
+  background-color: #b32e1d;
+  border-color: #b32e1d;
+  size: 4px;
+}
+
+.btn-primary:click{
+  background-color: #b32e1d;
+  border-color: #b32e1d;
+  size: 8px;
+}
+
+.buffer {
+  height: 25rem;
+}
+
+.coolTitle {
+  text-align: center;
+
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 40px;
+  transform: skewY(-10deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: rgb(226, 86, 43);
+  text-shadow: 
+    -1px -1px 0 firebrick,
+    -2px -2px 0 firebrick,
+    -3px -3px 0 firebrick,
+    -4px -4px 0 firebrick,
+    -5px -5px 0 firebrick,
+    -6px -6px 0 firebrick,
+    -7px -7px 0 firebrick,
+    -8px -8px 0 firebrick,
+    -30px 20px 40px dimgrey;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.toDoEl {
+  font-family: 'Oswald', Helvetica, sans-serif;
+}
