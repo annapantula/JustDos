@@ -10,6 +10,14 @@ html {
   background-size: cover;
 }
 
+hr {
+  border-color: #dc4646b2;
+  border-width: 5px;
+  max-width: 400px;
+  text-decoration: underline;
+}
+
+
 h1 {
   color: #dc4646b2;
   font-size: 5rem;
@@ -30,11 +38,7 @@ p {
   text-align: center;
 }
 
-hr {
-  border-color: #dc4646b2;
-  border-width: 10px;
-  max-width: 260px;
-}
+
 
 .btn {
   font-weight: 700;
