@@ -27,7 +27,7 @@ h1 {
 
 h4 {
   color: #dc5746;
-  font-size: 3rem;
+  font-size: 2rem;
   text-align: center;
   text-decoration: underline;
 }
@@ -38,7 +38,15 @@ p {
   text-align: center;
 }
 
+.just-do {
+  text-align: center;
+}
 
+.lbl {
+  color: #dc5746;
+  font-size: 1.3rem;
+  text-align: center;
+}
 
 .btn {
   font-weight: 700;
